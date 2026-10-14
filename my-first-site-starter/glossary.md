@@ -9,4 +9,5 @@ Add each day's new words here, in your own words.
 
 <!-- Example of a finished entry:
 - **HTML**: the structure of a page (the walls of a house)
+Week 1 Monday (HTML)
 -->

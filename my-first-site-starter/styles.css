@@ -1,1 +1,37 @@
 /* TODO 1 (Tuesday): style your nav bar here. */
+.navbar {
+    background-color: #ffe4ec;
+    padding: 15px 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.logo {
+  color: #b56583;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #78658f;
+  background-color: #f4edff;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 15px;
+}
+
+.nav-links a:hover {
+  background-color: #dcd0ff;
+  color: #5b4777;
+}
