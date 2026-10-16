@@ -2,10 +2,10 @@
 const siteName = "Resume"
 
 // TODO 2 (Thursday): make a variable called visitCount holding a number.
-let visitCount = 100;
+let visitCount = 10;
 
 // TODO 3 (Thursday): give visitCount a new, bigger number.
-
+visitCount = 100; 
 
 // TODO 4 (Thursday): make a variable called showNewLabel holding true or false.
  const showNewLabel = false
