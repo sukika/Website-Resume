@@ -15,3 +15,4 @@ let visitCount = 100;
 document.querySelector(".logo").textContent = siteName;
 document.querySelector(".visits").textContent = "Visits: " + visitCount;
 document.querySelector(".new-label").hidden = !showNewLabel;
+
