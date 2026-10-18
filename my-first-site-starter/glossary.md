@@ -9,8 +9,8 @@ Add each day's new words here, in your own words.
 
 <!-- Example of a finished entry:
 - **HTML**: the structure of a page (the walls of a house)
-Week 1 Monday (HTML)
-Week 1 Tuesday (CSS)
-Week 1 Wednesday (JS)
-Week 1 Thursday (JS)
+Week 1 Monday (HTML) Created the Structure of the page!
+Week 1 Tuesday (CSS) Started to decorate the nav bar!
+Week 1 Wednesday (JS) Did JS and variables!
+Week 1 Thursday (JS) JS, booleans, let, and sitename!
 -->
