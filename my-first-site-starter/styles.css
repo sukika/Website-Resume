@@ -1,6 +1,6 @@
 /* TODO 1 (Tuesday): style your nav bar here. */
 
-/*.navbar {
+.navbar {
     background-color: #ffe4ec;
     padding: 15px 25px;
     display: flex;
@@ -35,4 +35,14 @@
   color: #5b4777;
 }
 
+.hero {
+  background-color: #f6f3ff;
+  font-size: 14px;
+  padding: 100px;
 
+}
+
+button {
+  background-color: #5b4777;
+  padding: 10px;
+}
