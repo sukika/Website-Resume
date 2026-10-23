@@ -7,7 +7,7 @@ Add each day's new words here, in your own words.
 - **CSS**: The decoration of a page (decoration in a house)
 - **JavaScript**: The brain behind a page (The structure of a house)
 
-<!-- Example of a finished entry:
+ Example of a finished entry:
 - **HTML**: the structure of a page (the walls of a house) 
 Week 1 Monday (HTML) 
 element: a fundamental unit that is a building block.
@@ -46,6 +46,5 @@ textContext: text that is inside an element.
 
 Week 2 Thursday (JS)
 template literal: special string that JS uses backticks that include variables.
-backtick: ' ends and starts template literal.
-placeholder. {}$ within a template literal thats replaced by a variables value.
--->
+backtick: ` ends and starts template literal.
+placeholder. ${} within a template literal thats replaced by a variables value.
