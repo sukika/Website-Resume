@@ -19,4 +19,4 @@ document.querySelector(".new-label").hidden = !showNewLabel;
 document.querySelector("h1").textContent = siteName;
 
 const heroTitle = document.querySelector('h1');
-heroTitle.textContent = 'Welcome to my resume page!';
+heroTitle.textContent = `Welcome to my ${siteName}`;
