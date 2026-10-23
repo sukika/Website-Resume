@@ -1,5 +1,5 @@
 // TODO 1 (Wednesday): make a variable called siteName on the line below.
-const siteName = "Resume"
+const siteName = "skibidi"
 
 // TODO 2 (Thursday): make a variable called visitCount holding a number.
 let visitCount = 10;
@@ -16,3 +16,7 @@ document.querySelector(".logo").textContent = siteName;
 document.querySelector(".visits").textContent = "Visits: " + visitCount;
 document.querySelector(".new-label").hidden = !showNewLabel;
 
+document.querySelector("h1").textContent = siteName;
+
+const heroTitle = document.querySelector('h1');
+heroTitle.textContent = 'Welcome to my resume page!';

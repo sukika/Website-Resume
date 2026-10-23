@@ -34,5 +34,18 @@ section: element that groups its related things to one specific part of the page
 heading: a title part for a page.
 button: something people can click that is an element.
 
-Week 2 Tuesday 
+Week 2 Tuesday (CSS)
+padding: inside area of the border and content.
+border: the border around the content.
+margin: outside area of the content between other elements.
+
+Week 2 Wednesday (JS)
+DOM: a browsers live copy of your page that JS can change.
+queryselector: searches for the first element that matches with a CSS selector.
+textContext: text that is inside an element.
+
+Week 2 Thursday (JS)
+template literal: special string that JS uses backticks that include variables.
+backtick: ' ends and starts template literal.
+placeholder. {}$ within a template literal thats replaced by a variables value.
 -->
