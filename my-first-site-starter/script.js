@@ -20,3 +20,9 @@ document.querySelector("h1").textContent = siteName;
 
 const heroTitle = document.querySelector('h1');
 heroTitle.textContent = `Welcome to my ${siteName}`;
+
+function showMessage() {
+    document.querySelector("#hero-message").textContent = `This is my ${siteName}`;
+}
+
+showMessage();

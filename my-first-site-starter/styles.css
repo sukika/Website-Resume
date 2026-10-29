@@ -44,7 +44,25 @@
 
 }
 
+#hero-message {
+  color: #5b4777;
+  font-style: italic;
+}
+
 button {
   background-color: #5b4777;
   padding: 10px;
+}
+
+#hero-button {
+  cursor: pointer;
+}
+
+#hero-button:hover {
+  background-color: #b56583;
+  color: #78658f;
+}
+
+#hero-button:active {
+  background-color: #f4edff;
 }

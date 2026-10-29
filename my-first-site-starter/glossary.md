@@ -46,3 +46,17 @@ Add each day's new words here, in your own words.
 - **template literal**: special string that JS uses backticks that include variables.
 - **backtick**: ` ends and starts template literal.
 - **placeholder**. ${} within a template literal thats replaced by a variables value.
+
+## Week 3 Monday (HTML & CSS)
+- **id**: identifier used to target a single specific element on a webpage.
+- **id selector**:identifer used to target and style a specific element on a webpage.
+
+## Week 3 Tuesday (CSS)
+- **psuedo-class**: lets you change how an element looks.
+- **hover**: when your resting your mouse over the element.
+- **cursor**: your mouse pointer.
+
+## Week 3 Wednesday (JS)
+- **function**: reuseable set of instructions.
+- **call**: tells JS to run the instructions.
+- **function**: instructions that are inside a function.
