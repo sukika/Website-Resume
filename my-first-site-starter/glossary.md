@@ -59,7 +59,7 @@ Add each day's new words here, in your own words.
 ## Week 3 Wednesday (JS)
 - **function**: reuseable set of instructions.
 - **call**: tells JS to run the instructions.
-- **function**: instructions that are inside a function.
+- **function body**: instructions that are inside a function.
 
 ## Week 3 Thursday (JS)
 - **event**: something that happens on a page.
