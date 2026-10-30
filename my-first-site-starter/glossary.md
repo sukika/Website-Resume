@@ -60,3 +60,8 @@ Add each day's new words here, in your own words.
 - **function**: reuseable set of instructions.
 - **call**: tells JS to run the instructions.
 - **function**: instructions that are inside a function.
+
+## Week 3 Thursday (JS)
+- **event**: something that happens on a page.
+- **event listener**: listens for a specific event.
+- **addEventListener**: attaches event to handler.
