@@ -25,4 +25,5 @@ function showMessage() {
     document.querySelector("#hero-message").textContent = `This is my ${siteName}`;
 }
 
-showMessage();
+const heroButton = document.querySelector("#hero-button");
+heroButton.addEventListener("click", showMessage);
