@@ -24,6 +24,7 @@ heroTitle.textContent = `Welcome to my ${siteName}`;
 let clickCount = 0;
 
 function showMessage() {
+    console.log("Show message ran!");
      clickCount = clickCount + 1;
      console.log(clickCount);
      console.log(showMessage);
