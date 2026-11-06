@@ -71,7 +71,8 @@ Add each day's new words here, in your own words.
 - **duration**; the amount of time something takes. 
 
 ## Week 4 Wednesday (JS)
-- **console**; a secret/hidden panel hidden in the browser for the developer to see messages
-- **console.log**; writes a message in the console
+- **console**; a secret/hidden panel hidden in the browser for the developer to see messages.
+- **console.log**; writes a message in the console.
 
-
+## Week 4 Thursday (JS)
+- **counter**; variable that goes up by one each time something happens. It helps to count.
