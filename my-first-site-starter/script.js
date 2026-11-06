@@ -26,6 +26,7 @@ let clickCount = 0;
 function showMessage() {
      clickCount = clickCount + 1;
      console.log(clickCount);
+     console.log(showMessage);
      document.querySelector("#hero-message").textContent = `You've clicked about ${clickCount} times!`;
 }
 function resetCount (){
