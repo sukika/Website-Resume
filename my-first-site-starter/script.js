@@ -21,9 +21,21 @@ document.querySelector("h1").textContent = siteName;
 const heroTitle = document.querySelector('h1');
 heroTitle.textContent = `Welcome to my ${siteName}`;
 
+let clickCount = 0;
+
 function showMessage() {
-    document.querySelector("#hero-message").textContent = `This is my ${siteName}`;
+     clickCount = clickCount + 1;
+     console.log(clickCount);
+     document.querySelector("#hero-message").textContent = `You've clicked about ${clickCount} times!`;
 }
+function resetCount (){
+    clickCount = 0;
+    document.querySelector("#hero-message").textContent = "The count has reset KEEP CLICKING!!!";
+}
+const resetButton = document.querySelector("#reset-button");
+resetButton.addEventListener("click", resetCount);
+
+
 
 const heroButton = document.querySelector("#hero-button");
 heroButton.addEventListener("click", showMessage);

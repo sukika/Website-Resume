@@ -34,6 +34,7 @@
 .nav-links a:hover {
   background-color: #dcd0ff;
   color: #5b4777;
+  transition-duration: 0.4s;
 }
 
 .hero {
@@ -56,6 +57,7 @@ button {
 
 #hero-button {
   cursor: pointer;
+  transition-duration: 0.4s;
 }
 
 #hero-button:hover {

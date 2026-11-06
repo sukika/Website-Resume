@@ -65,3 +65,13 @@ Add each day's new words here, in your own words.
 - **event**: something that happens on a page.
 - **event listener**: listens for a specific event.
 - **addEventListener**: attaches event to handler.
+
+## Week 4 Tuesday (CSS)
+- **transition**; makes it so the style change happens slower rather than instantly.
+- **duration**; the amount of time something takes. 
+
+## Week 4 Wednesday (JS)
+- **console**; a secret/hidden panel hidden in the browser for the developer to see messages
+- **console.log**; writes a message in the console
+
+
